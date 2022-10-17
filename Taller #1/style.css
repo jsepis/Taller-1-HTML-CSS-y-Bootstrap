@@ -1,0 +1,51 @@
+img {
+    width: 400px;   
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 75px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: bolder;
+}
+
+h2 {
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+p {
+    text-align: justify;
+    font-size: larger ;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    font-size: larger ;
+    color: whitesmoke;
+    font-family: 'Times New     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+[class*="container"]{
+    align-self: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+label{
+    font-size: larger ;
+    color: whitesmoke;
+    font-family: 'Times New     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-align: justify;
+    font-size: large ;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
